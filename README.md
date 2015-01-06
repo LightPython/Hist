@@ -7,10 +7,10 @@ How to use
 Type as below.
 
 	import hist
-	hist.make("ファイル名") # ファイル名.py
+	hist.hist.make("ファイル名") # ファイル名.py
 
 or
 
 	import hist
-	hist.make_rand() # X[a-zA-Z0-9_].py
+	hist.hist.make_rand() # X[a-zA-Z0-9_].py
 
