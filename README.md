@@ -1,9 +1,9 @@
-Hist
+# Hist
 ====
 
 This write history of Python interpreter to file.
 
-How to install.
+## How to install.
 Type as below on shell or bash interpreter etc..
 
 	make
@@ -15,7 +15,7 @@ or
 	sudo python setup.py install
 
 
-How to use.
+## How to use.
 Type as below on python interpreter.
 
 	import hist
