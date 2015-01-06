@@ -10,7 +10,7 @@ Type as below on shell or bash interpreter etc:
 
 ## How to use.
 If you want to write a history of python interpreter to file,
-type as below on python interpreter:
+type as below on python interpreter after written a program of interpreter:
 
 	import hist
 	hist.hist.make("filename")
